@@ -1,5 +1,5 @@
 # Day 1 - 30DaysOfPython Exercises 
-# Exercise Level 2
+# Exercise Level 1
 
 print("...................(""Exercise Level 1 and 2"")............................")
 # Question 1 - Check the python version you are using
