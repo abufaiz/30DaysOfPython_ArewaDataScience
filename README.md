@@ -3,7 +3,7 @@
 
 Here is an overview of to learning activities in the "30 Days of Python" course:
 
-Day 01:	Introduction.
+Day 01:	Introduction.<br>
 Day 02:	Variables, Built-in Functions.
 Day 03:	Operators.
 Day 04:	Strings.
