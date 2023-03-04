@@ -30,6 +30,6 @@ Day 24:	Statistics.<br>
 Day 25:	Pandas.<br>
 Day 26:	Python web.<br>
 Day 27:	Python with MongoDB.<br>
-Day 28:	API.<br><br>
+Day 28:	API.<br>
 Day 29:	Building API.<br>
 Day 30:	Conclusions.<br>
